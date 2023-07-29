@@ -128,7 +128,9 @@ Above is the merged pizza sales dataset ready for analysis. It contains 14 colum
 ![image](https://github.com/UduakN/Pizza-Sales-Report/assets/128192166/93ce94a6-d84e-4b03-a223-89e8ec9d3074)
 
 
+Interract with my dashboard here https://1drv.ms/x/s!AsjxQAeMa_3zgXCFBSZZab44P15R?e=uYoZkc
 
+Connect with me on LinkedIn https://www.linkedin.com/in/uduak-njoku/
 
 
 
